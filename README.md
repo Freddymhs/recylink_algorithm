@@ -1,2 +1,7 @@
 # recylink_algorithm
- algoritmo testeado con nodejs
+ 
+algoritmo testeado en nodejs
+ 
+  ```
+  node index.js  
+  ```
